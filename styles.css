@@ -1,0 +1,45 @@
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #434074;
+    background-color: #2B2B30;
+    border: 50px;
+    border-style: solid;
+    border-color: #2B2B30;
+    text-align: center;
+    font-size: 31.25px;
+}
+
+nav{
+    text-align: center;
+    color: black;
+}
+.snow{
+  color: #7a2424;
+  font-size: 30px;
+  text-align: justify;
+}
+.nap{
+    border: 20px;
+    border-style: groove;
+    border-color: rgb(54, 0, 38);
+}
+.cat{
+    border: 20px;
+    border-style:outset;
+    border-color: rgb(55, 46, 179);
+}
+.meow{
+    border: 20px;
+    border-style:ridge;
+    border-color: rgb(77, 63, 55);
+}
+.wither{
+    color: #831b43;
+    font-size: 25px;
+    text-align: justify;
+}
+.potato{
+    color: #492370;
+    font-size:15px;
+    text-align: justify;
+}
